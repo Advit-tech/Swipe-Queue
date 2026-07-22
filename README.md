@@ -2,13 +2,13 @@
 
 A lightweight Spicetify extension that adds trackpad swipe-to-queue functionality (Swipe Right) to track rows in the Spotify Windows Desktop client, featuring a native-feeling slide animation and dynamic gradient preservation.
 
-## Features
+## ⚡️ Features
 - **Trackpad Native**: Uses `wheel` delta events for smooth gesture control.
 - **Direction**: Swipe Right to reveal the green "Queue" action from the left.
 - **Lightweight**: Zero blur/filter effects—paint-only `transform` animations for low GPU/thermal footprint.
 - **Dynamic Theme Friendly**: Off-screen layer architecture that preserves Spotify's native album color gradients and hover highlights.
 
-## Installation
+## 🛠️ Installation
 
 ### Method 1: Manual Copy (PowerShell)
 
@@ -27,7 +27,7 @@ spicetify apply
 
 ---
 
-## Uninstallation
+## 🗑️ Uninstallation
 
 To remove the extension:
 
