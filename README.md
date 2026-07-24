@@ -1,6 +1,6 @@
 # Spicetify Swipe-to-Queue (`SwipeQueue.js`)
 
-A lightweight Spicetify extension that adds trackpad swipe-to-queue functionality (Swipe Right) to track rows in the Spotify Windows Desktop client, featuring a native-feeling slide animation and dynamic gradient preservation.
+A lightweight Spicetify extension that adds trackpad swipe-to-queue functionality (Swipe Right).
 
 ## ⚡️ Features
 - **Trackpad Native**: Uses `wheel` delta events for smooth gesture control.
