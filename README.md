@@ -8,6 +8,13 @@ A lightweight Spicetify extension that adds trackpad swipe-to-queue functionalit
 - **Lightweight**: Zero blur/filter effects—paint-only `transform` animations for low GPU/thermal footprint.
 - **Dynamic Theme Friendly**: Off-screen layer architecture that preserves Spotify's native album color gradients and hover highlights.
 
+## 📸 Screenshot
+
+
+https://github.com/user-attachments/assets/d1812d35-5161-41f1-884e-02d074d9bc16
+
+
+
 ## 🛠️ Installation
 
 ### Method 1: Manual Copy (PowerShell)
