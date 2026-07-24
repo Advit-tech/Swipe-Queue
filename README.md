@@ -23,7 +23,7 @@ A lightweight Spicetify extension that adds trackpad swipe-to-queue functionalit
 
 ```powershell
 # Copy extension to Spicetify extensions folder
-Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/Advit-tech/spicetify-swipe-queue/main/SwipeQueue.js](https://raw.githubusercontent.com/Advit-tech/spicetify-swipe-queue/main/SwipeQueue.js)" -OutFile "$env:APPDATA\spicetify\Extensions\SwipeQueue.js"
+Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/Advit-tech/Swipe-Queue/main/SwipeQueue.js](https://raw.githubusercontent.com/Advit-tech/Swipe-Queue/main/SwipeQueue.js)" -OutFile "$env:APPDATA\spicetify\Extensions\SwipeQueue.js"
 
 # Enable extension
 spicetify config extensions SwipeQueue.js
