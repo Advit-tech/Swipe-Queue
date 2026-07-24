@@ -10,7 +10,7 @@ A lightweight Spicetify extension that adds trackpad swipe-to-queue functionalit
 
 ## 📸 Screenshot
 
-![Demo of feature](https://github.com/user-attachments/assets/d1812d35-5161-41f1-884e-02d074d9bc16)
+![Demo of feature](https://github.com/user-attachments/assets/59dcb86e-6f09-48e6-9ce1-9f50fa386903)
 
 ## 🛠️ Installation
 
