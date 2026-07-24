@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Swipe Queue",
+    "description": "A lightweight Spicetify extension that adds trackpad swipe-to-queue functionality to Spotify",
+    "preview": "preview.png",
+  "main": "SwipeQueue.js",
+    "readme": "README.md",
+    "authors": [{ "name": "Advit", "url": "https://github.com/Advit-tech" }],
+    "tags": ["queue", "swipe", "add", "swipe-queue", "add-to-queue", "add to queue", "ui", "gesture", "trackpad", "gesture animaiton", "gesture-animaiton"]
+  }
+]
